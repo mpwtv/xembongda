@@ -1,57 +1,123 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260831/229ca41f562259fb13fd8241674ae593.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 10:00 02/09 ⚽ Liaoning Flying Leopards vs Fujian Xunxing Sturgeons (BLV KING)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1788319813-0-0-77005d7f2490aa6fa550185bf05f4bc0
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5a721f997fe18b1c151116a96b1b4ea8.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 08:00 02/09 ⚽ Fortaleza CEIF vs CLB Once Caldas (BLV FANTA) [hls]
+https://live05.meung.app/live/16226575.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5a721f997fe18b1c151116a96b1b4ea8.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 08:00 02/09 ⚽ Fortaleza CEIF vs CLB Once Caldas (BLV FANTA) [hls]
+https://live05.miekgo.app/live/16226575.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5a721f997fe18b1c151116a96b1b4ea8.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 08:00 02/09 ⚽ Fortaleza CEIF vs CLB Once Caldas (BLV FANTA) [flv]
+https://live05.meung.app/live/16226575.flv
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260830/b61f2095262f37bf8ab17cb81f37cadb.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 08:00 02/09 ⚽ Fortaleza F.C vs Deportiva Once Caldas (BLV BLV Củ Cải)
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1788319801-0-0-b56be6d33a7714232465ae1faf01f11f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260831/d785a704d4e1f720bd5a670e04f37a9d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 14:30 02/09 ⚽ Cairns Taipans vs Perth Wildcats (BLV BRIAN)
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1788264000-0-0-645881c1d17e9e6d90ee76d431a8a38c
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260830/cc9f67f2249ced71af70e51b560d3419.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:00 02/09 ⚽ JEF United Ichihara Chiba vs Fagiano Okayama (BLV KENCHU)
 https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1788312422-0-0-cc1e43cf9327698bbb152dae94d2fdb9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260830/a216d8c8e8a7326c0d2e70f99fecf3e1.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:00 02/09 ⚽ Machida Zelvia vs Kawasaki Frontale (BLV BLV TOMIA)
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1788298530-0-0-a97b51f3a2b8c9dfb376aae50414d0a5
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260830/a216d8c8e8a7326c0d2e70f99fecf3e1.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:00 02/09 ⚽ Machida Zelvia vs Kawasaki Frontale (BLV BLV HEHE)
 https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1788318660-0-0-bc71216613b6a71a77d65c9064d48e2c
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260830/ba1afee313e6e375965d530eb6bb53d2.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:00 02/09 ⚽ Mito Hollyhock vs Kashima Antlers (BLV BLV FIREMAN)
 https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1788296654-0-0-4a915f596c23219bb0f15dbbbf2799b4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260830/99663f41c1cdca45e416d1c656846d3d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:00 02/09 ⚽ Shimizu S-Pulse vs FC Tokyo (BLV BLV WUKONG)
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1788299231-0-0-70f528c8b21b3b23a9d74f1afdb66cdc
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_5088.jpg" group-title="PHAO HOA TV" group-logo="https://phaohoa1.live/favicon.ico" , 17:00 02/09 ⚽ Verdy vs Vissel Kobe (BLV Tiểu Mây) [hls]
 https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260830/16428840f0f78cccf7dd56d1f9251561.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:00 02/09 ⚽ Yokohama F. Marinos vs Kyoto Sanga (BLV BLV VOI)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1788316500-0-0-d022810f43c6a18597a98d7c16b914a8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260830/0692314a2aaaffc3752841f5cfcdddf1.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 19:00 02/09 ⚽ Melaka FC vs Penang FC (BLV RỒNG ĐẤT)
-https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1788298689-0-0-f4e590a85b61320c3016e57ea065d522
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 20:00 02/09 ⚽ U.S. Sassuolo Calcio vs Frosinone (BLV MOUNTAIN DEW) [hls]
-https://live05.meung.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 20:00 02/09 ⚽ U.S. Sassuolo Calcio vs Frosinone (BLV MOUNTAIN DEW) [hls]
-https://live05.miekgo.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 20:00 02/09 ⚽ U.S. Sassuolo Calcio vs Frosinone (BLV MOUNTAIN DEW) [flv]
-https://live05.meung.app/live/87547578.flv
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260830/16428840f0f78cccf7dd56d1f9251561.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:00 02/09 ⚽ Yokohama F. Marinos vs Kyoto Sanga (BLV HẢI THANH)
+https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1788296475-0-0-2bf34c6ad8415596ef502722087c6b77
+#EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/US_Sassuolo_Calcio_logo.svg.webp" group-title="PHAO HOA TV" group-logo="https://phaohoa1.live/favicon.ico" , 20:00 02/09 ⚽ Sassuolo vs Frosinone (BLV Pháo Thủ) [hls]
+https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
+#EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_OI6UvXR.jpg" group-title="PHAO HOA TV" group-logo="https://phaohoa1.live/favicon.ico" , 20:00 02/09 🏐 Serbia vs Hy Lạp (BLV KaKa) [hls]
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 20:00 02/09 ⚽ U.S. Sassuolo Calcio vs Frosinone (BLV REVIVE) [hls]
+https://live05.meung.app/live/33982309.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 20:00 02/09 ⚽ U.S. Sassuolo Calcio vs Frosinone (BLV REVIVE) [hls]
+https://live05.miekgo.app/live/33982309.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 20:00 02/09 ⚽ U.S. Sassuolo Calcio vs Frosinone (BLV REVIVE) [flv]
+https://live05.meung.app/live/33982309.flv
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260830/d8f7c8f420f7c8c1779ed1b5327f8042.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 02/09 ⚽ Belediye Vanspor vs Batman Petrolspor (BLV TUẤN CÙI)
+https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1788300456-0-0-fd57ba43bea5f642571574a879b295b6
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/608167694c7fa48bc7786268f2750cae.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 21:30 02/09 ⚽ CLB Samtredia vs Saburtalo Tbilisi (BLV FANTA) [hls]
+https://live05.meung.app/live/16226575.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/608167694c7fa48bc7786268f2750cae.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 21:30 02/09 ⚽ CLB Samtredia vs Saburtalo Tbilisi (BLV FANTA) [hls]
+https://live05.miekgo.app/live/16226575.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/608167694c7fa48bc7786268f2750cae.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 21:30 02/09 ⚽ CLB Samtredia vs Saburtalo Tbilisi (BLV FANTA) [flv]
+https://live05.meung.app/live/16226575.flv
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260830/c56b936b55f8982c4830fb4c567226e2.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 22:30 02/09 ⚽ Maxline Vitebsk vs FC Belshina Babruisk (BLV CACAO)
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1788299686-0-0-11f6c6255161188a1d1e85e692105e00
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ece43223dd5ca95c06190d491a8238e1.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:30 02/09 ⚽ Inter Nữ vs Wolfsburg Nữ (BLV FANTA) [hls]
+https://live05.meung.app/live/16226575.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ece43223dd5ca95c06190d491a8238e1.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:30 02/09 ⚽ Inter Nữ vs Wolfsburg Nữ (BLV FANTA) [hls]
+https://live05.miekgo.app/live/16226575.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ece43223dd5ca95c06190d491a8238e1.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:30 02/09 ⚽ Inter Nữ vs Wolfsburg Nữ (BLV FANTA) [flv]
+https://live05.meung.app/live/16226575.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9b531be11cb41d4f7999fc91a943c75f.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:30 02/09 ⚽ Paris Saint Germain nữ vs Eintracht Frankfurt Nữ (BLV SAMURAI) [hls]
+https://live05.meung.app/live/07808742.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9b531be11cb41d4f7999fc91a943c75f.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:30 02/09 ⚽ Paris Saint Germain nữ vs Eintracht Frankfurt Nữ (BLV SAMURAI) [hls]
+https://live05.miekgo.app/live/07808742.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9b531be11cb41d4f7999fc91a943c75f.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:30 02/09 ⚽ Paris Saint Germain nữ vs Eintracht Frankfurt Nữ (BLV SAMURAI) [flv]
+https://live05.meung.app/live/07808742.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1250ea0fb6814e71bb08eb9996a01c99.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 00:00 03/09 ⚽ CLB Abo Qair Semads vs Al Ittihad Alexandria (BLV AQUA) [hls]
 https://live05.meung.app/live/18812304.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1250ea0fb6814e71bb08eb9996a01c99.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 00:00 03/09 ⚽ CLB Abo Qair Semads vs Al Ittihad Alexandria (BLV AQUA) [hls]
 https://live05.miekgo.app/live/18812304.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1250ea0fb6814e71bb08eb9996a01c99.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 00:00 03/09 ⚽ CLB Abo Qair Semads vs Al Ittihad Alexandria (BLV AQUA) [flv]
 https://live05.meung.app/live/18812304.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7d869f45894b0c8a3cdf8ade8c568a06.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:45 03/09 ⚽ VfL Osnabruck vs FC Bayern München (BLV MOUNTAIN DEW) [hls]
-https://live05.meung.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7d869f45894b0c8a3cdf8ade8c568a06.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:45 03/09 ⚽ VfL Osnabruck vs FC Bayern München (BLV MOUNTAIN DEW) [hls]
-https://live05.miekgo.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7d869f45894b0c8a3cdf8ade8c568a06.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:45 03/09 ⚽ VfL Osnabruck vs FC Bayern München (BLV MOUNTAIN DEW) [flv]
-https://live05.meung.app/live/87547578.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 05:30 03/09 ⚽ CLB Flamengo vs CLB Mirassol (BLV MOUNTAIN DEW) [hls]
-https://live05.meung.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 05:30 03/09 ⚽ CLB Flamengo vs CLB Mirassol (BLV MOUNTAIN DEW) [hls]
-https://live05.miekgo.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 05:30 03/09 ⚽ CLB Flamengo vs CLB Mirassol (BLV MOUNTAIN DEW) [flv]
-https://live05.meung.app/live/87547578.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2e02d3f27830c7f3642e6592e6b922dd.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 07:15 03/09 ⚽ CLB Velez Sarsfield vs Boca Juniors (BLV ROCKSTAR) [hls]
-https://live05.meung.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2e02d3f27830c7f3642e6592e6b922dd.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 07:15 03/09 ⚽ CLB Velez Sarsfield vs Boca Juniors (BLV ROCKSTAR) [hls]
-https://live05.miekgo.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2e02d3f27830c7f3642e6592e6b922dd.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 07:15 03/09 ⚽ CLB Velez Sarsfield vs Boca Juniors (BLV ROCKSTAR) [flv]
-https://live05.meung.app/live/82054853.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0840bace9b911b3f0dbadb710ea20316.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 07:30 03/09 ⚽ CLB Santos vs Palmeiras (BLV MOUNTAIN DEW) [hls]
-https://live05.meung.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0840bace9b911b3f0dbadb710ea20316.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 07:30 03/09 ⚽ CLB Santos vs Palmeiras (BLV MOUNTAIN DEW) [hls]
-https://live05.miekgo.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0840bace9b911b3f0dbadb710ea20316.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 07:30 03/09 ⚽ CLB Santos vs Palmeiras (BLV MOUNTAIN DEW) [flv]
-https://live05.meung.app/live/87547578.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4f2e51a4694f68360a19648b651b30ca.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:30 03/09 ⚽ Dynamo Moscow vs Akhmat Grozny (BLV ROCKSTAR) [hls]
-https://live05.meung.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4f2e51a4694f68360a19648b651b30ca.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:30 03/09 ⚽ Dynamo Moscow vs Akhmat Grozny (BLV ROCKSTAR) [hls]
-https://live05.miekgo.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4f2e51a4694f68360a19648b651b30ca.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:30 03/09 ⚽ Dynamo Moscow vs Akhmat Grozny (BLV ROCKSTAR) [flv]
-https://live05.meung.app/live/82054853.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6dfc28d0f38d12ff657e16fb02e040f7.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 00:00 03/09 ⚽ Real Sociedad Nữ vs Chelsea Nữ (BLV PEPSI) [hls]
+https://live05.meung.app/live/59444581.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6dfc28d0f38d12ff657e16fb02e040f7.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 00:00 03/09 ⚽ Real Sociedad Nữ vs Chelsea Nữ (BLV PEPSI) [hls]
+https://live05.miekgo.app/live/59444581.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6dfc28d0f38d12ff657e16fb02e040f7.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 00:00 03/09 ⚽ Real Sociedad Nữ vs Chelsea Nữ (BLV PEPSI) [flv]
+https://live05.meung.app/live/59444581.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/be7fe57ffae201d4d8e1f8a8bf33232f.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:00 03/09 ⚽ Real Madrid Nữ vs Ajax Nữ (BLV SAMURAI) [hls]
+https://live05.meung.app/live/07808742.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/be7fe57ffae201d4d8e1f8a8bf33232f.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:00 03/09 ⚽ Real Madrid Nữ vs Ajax Nữ (BLV SAMURAI) [hls]
+https://live05.miekgo.app/live/07808742.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/be7fe57ffae201d4d8e1f8a8bf33232f.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:00 03/09 ⚽ Real Madrid Nữ vs Ajax Nữ (BLV SAMURAI) [flv]
+https://live05.meung.app/live/07808742.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0ae228b68fbaf8bb4accc5fafe482a43.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:45 03/09 ⚽ Millwall vs CLB Wrexham (BLV FANTA) [hls]
+https://live05.meung.app/live/16226575.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0ae228b68fbaf8bb4accc5fafe482a43.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:45 03/09 ⚽ Millwall vs CLB Wrexham (BLV FANTA) [hls]
+https://live05.miekgo.app/live/16226575.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0ae228b68fbaf8bb4accc5fafe482a43.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:45 03/09 ⚽ Millwall vs CLB Wrexham (BLV FANTA) [flv]
+https://live05.meung.app/live/16226575.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/701e0713c180fa36266b425447d2f9c0.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:45 03/09 ⚽ Queens Park Rangers vs Cardiff City (BLV WARRIOR) [hls]
+https://live05.meung.app/live/97885009.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/701e0713c180fa36266b425447d2f9c0.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:45 03/09 ⚽ Queens Park Rangers vs Cardiff City (BLV WARRIOR) [hls]
+https://live05.miekgo.app/live/97885009.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/701e0713c180fa36266b425447d2f9c0.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:45 03/09 ⚽ Queens Park Rangers vs Cardiff City (BLV WARRIOR) [flv]
+https://live05.meung.app/live/97885009.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7d869f45894b0c8a3cdf8ade8c568a06.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:45 03/09 ⚽ VfL Osnabruck vs FC Bayern München (BLV REVIVE) [hls]
+https://live05.meung.app/live/33982309.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7d869f45894b0c8a3cdf8ade8c568a06.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:45 03/09 ⚽ VfL Osnabruck vs FC Bayern München (BLV REVIVE) [hls]
+https://live05.miekgo.app/live/33982309.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7d869f45894b0c8a3cdf8ade8c568a06.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:45 03/09 ⚽ VfL Osnabruck vs FC Bayern München (BLV REVIVE) [flv]
+https://live05.meung.app/live/33982309.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 19:00 03/09 ⚽ Cambodia U20 vs Nhật Bản U20 (BLV FANTA) [hls]
+https://live05.meung.app/live/16226575.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 19:00 03/09 ⚽ Cambodia U20 vs Nhật Bản U20 (BLV FANTA) [hls]
+https://live05.miekgo.app/live/16226575.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 19:00 03/09 ⚽ Cambodia U20 vs Nhật Bản U20 (BLV FANTA) [flv]
+https://live05.meung.app/live/16226575.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/bac641a0e4582c0aa8151fa9840685ac.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 19:00 03/09 ⚽ Laos U20 vs Indonesia U20 (BLV PEPSI) [hls]
+https://live05.meung.app/live/59444581.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/bac641a0e4582c0aa8151fa9840685ac.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 19:00 03/09 ⚽ Laos U20 vs Indonesia U20 (BLV PEPSI) [hls]
+https://live05.miekgo.app/live/59444581.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/bac641a0e4582c0aa8151fa9840685ac.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 19:00 03/09 ⚽ Laos U20 vs Indonesia U20 (BLV PEPSI) [flv]
+https://live05.meung.app/live/59444581.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/72fb22982ac69857cb2432f13589836e.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 19:00 03/09 ⚽ Palestine U20 vs Vietnam U20 (BLV REVIVE) [hls]
+https://live05.meung.app/live/33982309.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/72fb22982ac69857cb2432f13589836e.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 19:00 03/09 ⚽ Palestine U20 vs Vietnam U20 (BLV REVIVE) [hls]
+https://live05.miekgo.app/live/33982309.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/72fb22982ac69857cb2432f13589836e.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 19:00 03/09 ⚽ Palestine U20 vs Vietnam U20 (BLV REVIVE) [flv]
+https://live05.meung.app/live/33982309.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6b3994cecbf1c9c1fc4e1eb2ee01a6cf.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:15 03/09 ⚽ Al Sailiya vs Al Arabi (BLV SAMURAI) [hls]
+https://live05.meung.app/live/07808742.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6b3994cecbf1c9c1fc4e1eb2ee01a6cf.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:15 03/09 ⚽ Al Sailiya vs Al Arabi (BLV SAMURAI) [hls]
+https://live05.miekgo.app/live/07808742.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6b3994cecbf1c9c1fc4e1eb2ee01a6cf.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:15 03/09 ⚽ Al Sailiya vs Al Arabi (BLV SAMURAI) [flv]
+https://live05.meung.app/live/07808742.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e5516d35314acec9169f33834a199842.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:30 03/09 ⚽ NEOM Sports Club vs Al Khaleej (BLV FANTA) [hls]
+https://live05.meung.app/live/16226575.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e5516d35314acec9169f33834a199842.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:30 03/09 ⚽ NEOM Sports Club vs Al Khaleej (BLV FANTA) [hls]
+https://live05.miekgo.app/live/16226575.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e5516d35314acec9169f33834a199842.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:30 03/09 ⚽ NEOM Sports Club vs Al Khaleej (BLV FANTA) [flv]
+https://live05.meung.app/live/16226575.flv
