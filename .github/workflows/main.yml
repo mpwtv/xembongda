@@ -1,7 +1,12 @@
 name: Tự động lọc link khi xem_football có cập nhật
 
 on:
-  workflow_dispatch: # Đón nhận lệnh kích hoạt tức thì từ lệnh curl của kho xem_football
+  repository_dispatch:
+    types: [trigger-football-crawl]
+  workflow_dispatch:
+  # Tùy chọn: Tự động chạy dự phòng mỗi 3 tiếng một lần
+  schedule:
+   - cron: '*/15 * * * *'
 
 permissions:
   contents: write # Quyền tự ghi file sạch TVlive.m3u vào chính nó
