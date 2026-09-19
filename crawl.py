@@ -388,7 +388,7 @@ if __name__ == "__main__":
     # HỘI QUÁN 1
     data += process_standard("https://sv.hoiquantv.xyz/api/v1/external/fixtures/unfinished", "HỘI QUÁN 1")
     # HỘI QUÁN 2
-    data += process_hoiquan2("https://phunguyen.github.io/socolive/", "HỘI QUÁN 2")
+    data += process_hoiquan2("https://raw.githubusercontent.com/jasminliu98/phaohoa-stream/refs/heads/main/output.json", "HỘI QUÁN 2")
     # THIÊN ĐÌNH
     data += process_standard("https://sv.thiendinhtv.xyz/api/v1/external/fixtures/unfinished", "THIÊN ĐÌNH")
     # XAY CON
