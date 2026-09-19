@@ -152,7 +152,7 @@ def process_cala_tv():
         out.append({
             "time": dt,
             "group": "CO LA TV",
-            "title": f'{dt.strftime("%H:%M")} | {home.get("name")} vs {away.get("name")}',
+            "title": f' {home.get("name")} vs {away.get("name")}',
             "logo": home.get("logo", ""),
             "url": stream_url,
             "blv": blv_name
