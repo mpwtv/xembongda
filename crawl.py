@@ -159,7 +159,7 @@ def process_cala_tv():
         })
     return out
 
-# ================= TAM QUOC =================
+# ================= xoilacz =================
 def process_tamquoc_tv():
     out = []
     data = fetch_json("https://data-api.sportflowlivez.com/v1/football/xoilacz/match/live")
@@ -186,7 +186,7 @@ def process_tamquoc_tv():
             continue
         out.append({
             "time": dt,
-            "group": "TAM QUOC TV",
+            "group": "xoilacz TV",
             "title": f'{dt.strftime("%H:%M")} | {home.get("name")} vs {away.get("name")}',
             "logo": home.get("logoUrl", ""),
             "url": stream_url,
@@ -397,7 +397,7 @@ if __name__ == "__main__":
     data += process_vongcam()
     # CO LA TV
     data += process_cala_tv()
-    # TAM QUOC TV
+    # xoilacz TV
     data += process_tamquoc_tv()
     # GIỜ VÀNG TV
     data += process_hoiquan2("https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/output.json", "GIỜ VÀNG")
